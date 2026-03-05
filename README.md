@@ -1,7 +1,7 @@
 # 8-Point FFT DSP Unit
 
 ## Implementation
-SystemVerilog vs HLS comparison in Xilinx Vivado.
+HLS vs RTL comparison in Xilinx Vivado.
 
 ## Features
 **Pipelined.** 3-stage pipelined for each butterfly.
